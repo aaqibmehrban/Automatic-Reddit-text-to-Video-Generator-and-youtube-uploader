@@ -1,0 +1,5 @@
+black
+white
+male
+auto
+5
