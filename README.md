@@ -29,3 +29,11 @@ You will saw alot of channel getting popular on YouTube just by uploading “Red
 6- To upload video on youtube first create your youtube api and save credentials.json to the folder and run youtube_video_uploader.py                                                    
 
 
+#Project Envirnmonent details
+
+Windows 10                                                                                                                                                                       
+Python version  3.7.4                                                                                                                                                           
+
+
+
+
