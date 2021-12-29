@@ -11,11 +11,13 @@ You will saw alot of channel getting popular on YouTube just by uploading “Red
 ## Installation and Setup
 
 * Just download this repo to your destop & Extract it and then open cmd and type `cd {location of the folder}`                                                               
-* Then **pip install -r requirements.txt**                                                                                                                                        * Open links.txt and place the links of subreddit. To create video of multiple links seperate links with comas.1 video per line in file no matter how much u place links in      single line.it will create single video
+* after that just run this command in cmd `pip install -r requirements.txt` to install required libraries.                                                                        * Open links.txt and place the links of subreddit. To create video of multiple links seperate links with comas. 1 video per line in file no matter how much u place links in      single line.it will create single video
            video1 =url1,url2,url3 all three for single video
      
     
-* Then open setting.py and choose the setting for the video like, voice, font and background.                                                                                      * Then run run.py it will create video plus into the generated folder. with description and thumbnail                                                                           
+* Then open setting.py and choose the setting for the video like, voice, font and background.
+* In credentials.txt add relevant details related to praw api.
+* Then run run.py it will create video into the generated folder with description and thumbnail                                                                           
 * To upload video on youtube first create your youtube api and save credentials.json to the folder and run youtube_video_uploader.py  
                                            
 ## Project Envirnmonent details
